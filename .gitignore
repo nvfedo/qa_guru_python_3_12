@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# allure-results
+allure-results
+
 # C extensions
 *.so
 
